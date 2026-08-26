@@ -1,0 +1,38 @@
+[
+  {
+    "titulo": "Ludo Matic",
+    "editorial": "Ruibal",
+    "anio": 1970,
+    "jugadoresMin": 2,
+    "jugadoresMax": 4,
+    "categorias": ["Familiar", "Azar", "Carrera"],
+    "disponible": true
+  },
+  {
+    "titulo": "Juego de la Oca",
+    "editorial": "Ruibal",
+    "anio": 1980,
+    "jugadoresMin": 2,
+    "jugadoresMax": 4,
+    "categorias": ["Familiar", "Azar", "Carrera"],
+    "disponible": true
+  },
+  {
+    "titulo": "Palabras Cruzadas",
+    "editorial": "Ruibal",
+    "anio": 1978,
+    "jugadoresMin": 2,
+    "jugadoresMax": 4,
+    "categorias": ["Educativo", "Familiar", "Palabras"],
+    "disponible": true
+  },
+  {
+    "titulo": "T.E.G. (Táctica y Estrategia de la Guerra)",
+    "editorial": "Yetem",
+    "anio": 1976,
+    "jugadoresMin": 2,
+    "jugadoresMax": 6,
+    "categorias": ["Estrategia", "Guerra"],
+    "disponible": true
+  }
+]

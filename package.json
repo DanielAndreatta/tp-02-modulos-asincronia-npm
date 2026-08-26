@@ -1,0 +1,25 @@
+{
+  "name": "tp-02-modulos-asincronia-npm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "check": "node --check src/index.js && node --check src/archivos.js && node --check src/juegos.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielAndreatta/tp-02-modulos-asincronia-npm.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/DanielAndreatta/tp-02-modulos-asincronia-npm/issues"
+  },
+  "homepage": "https://github.com/DanielAndreatta/tp-02-modulos-asincronia-npm#readme",
+  "dependencies": {
+    "picocolors": "^1.1.1"
+  }
+}
