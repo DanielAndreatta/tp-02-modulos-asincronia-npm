@@ -5,7 +5,11 @@
     "anio": 1970,
     "jugadoresMin": 2,
     "jugadoresMax": 4,
-    "categorias": ["Familiar", "Azar", "Carrera"],
+    "categorias": [
+      "Familiar",
+      "Azar",
+      "Carrera"
+    ],
     "disponible": true
   },
   {
@@ -14,7 +18,11 @@
     "anio": 1980,
     "jugadoresMin": 2,
     "jugadoresMax": 4,
-    "categorias": ["Familiar", "Azar", "Carrera"],
+    "categorias": [
+      "Familiar",
+      "Azar",
+      "Carrera"
+    ],
     "disponible": true
   },
   {
@@ -23,7 +31,11 @@
     "anio": 1978,
     "jugadoresMin": 2,
     "jugadoresMax": 4,
-    "categorias": ["Educativo", "Familiar", "Palabras"],
+    "categorias": [
+      "Educativo",
+      "Familiar",
+      "Palabras"
+    ],
     "disponible": true
   },
   {
@@ -32,7 +44,10 @@
     "anio": 1976,
     "jugadoresMin": 2,
     "jugadoresMax": 6,
-    "categorias": ["Estrategia", "Guerra"],
+    "categorias": [
+      "Estrategia",
+      "Guerra"
+    ],
     "disponible": true
   }
 ]
